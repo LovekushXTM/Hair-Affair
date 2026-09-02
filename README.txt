@@ -1,0 +1,1 @@
+Upload all files to GitHub Pages. Keep index.html in repository root. Business information was checked against public listings; confirm current hours/services before commercial launch.
